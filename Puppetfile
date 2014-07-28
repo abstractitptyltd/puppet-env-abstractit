@@ -1,6 +1,10 @@
 forge 'http://forge.puppetlabs.com'
 
 ## local modules
+mod 'puppet',
+  :git => 'https://github.com/abstractitptyltd/abstractit-puppet',
+  :ref => 'v1.7.4'
+
 mod 'sudo',
   :git => 'https://github.com/abstractitptyltd/puppet-sudo',
   :ref => 'v1.1.3'
@@ -27,8 +31,8 @@ mod 'pnp4nagios',
 
 mod 'icinga',
   :git => 'https://github.com/abstractitptyltd/puppet-icinga',
-  :ref => 'v1.2.2_rc1'
+  :ref => 'v1.2.2_rc2'
 
 mod 'postfix',
   :git => 'https://github.com/abstractitptyltd/puppet-postfix',
-  :ref => 'development'
+  :ref => '0.1.4'
