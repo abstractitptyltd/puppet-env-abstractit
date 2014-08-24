@@ -15,6 +15,6 @@ mod 'abstractit/nrpe', 'v1.1.3'
 
 mod 'abstractit/pnp4nagios', 'v0.1.1'
 
-mod 'abstractit/icinga', 'v1.2.2_rc2'
+mod 'abstractit/icinga', 'v1.2.2-rc2'
 
 mod 'abstractit/postfix', '0.1.4'
