@@ -1,7 +1,7 @@
 forge 'http://forge.puppetlabs.com'
 
 ## local modules
-mod 'abstractit/puppet', 'v1.7.7'
+mod 'abstractit/puppet', 'v1.8.1'
 
 mod 'abstractit/sudo', 'v1.2.1'
 
