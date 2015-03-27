@@ -9,7 +9,7 @@ mod 'abstractit/xtrabackup', '0.1.3'
 
 mod 'abstractit/mysql_zrm', '0.1.4'
 
-mod 'abstractit/monitoring', '1.3.4'
+mod 'abstractit/monitoring', '1.3.5'
 
 mod 'abstractit/nrpe', '1.2.1'
 
