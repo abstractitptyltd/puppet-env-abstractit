@@ -29,7 +29,7 @@ mod 'puppetlabs/apt', '1.8.0'
 ## cloud_provisioner
 #mod 'puppetlabs/cloud_provisioner', '1.1.4'
 ## concat
-mod 'puppetlabs/concat', '2.0.1'
+mod 'puppetlabs/concat', '1.2.4'
 ## dashboard
 mod 'puppetlabs/dashboard', '0.0.4'
 ## firewall
